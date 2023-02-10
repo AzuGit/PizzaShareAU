@@ -1,37 +1,37 @@
-## Getting Started
+## PizzaShare is my final personal project from Alchemy university, 
+## after completing the Ethereum Developer Bootcamp in order to get certification.
 
-Create a project using this example:
+You can check on this link:
 
-```bash
-npx thirdweb create --template vite-javascript-starter
-```
 
-You can start editing the page by modifying `src/main.jsx`. The page auto-updates as you edit the file.
+[pizzashare.netlify.app](pizzashare.netlify.app)
 
-On `src/index.jsx`, you'll find our `ThirdwebProvider` wrapping your app,
-this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+![image](https://user-images.githubusercontent.com/115132408/218221184-bb6b4a5b-6fb5-4968-bd53-0bacfed0cb14.png)
 
-### Deploy to IPFS
 
-Deploy a copy of your application to IPFS using the following command:
+### Deploy on goerli testnet using hardhat and thirdweb.
+
 
 ```bash
-yarn deploy
+contract hash: 0x6FAAD326ef82Bc303cF28009Cc74fe96D45621dB
 ```
 
-## Learn More
+### Frontend build with React and Vite.
 
-To learn more about thirdweb, Vite and React, take a look at the following resources:
+## About this project:
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
-- [React documentation](https://reactjs.org/) - learn React.
+PizzaShare allows anyone who has a community of fans or followers of some kind to receive small donations or rewards for their work. The tool allows us to facilitate the donation process with one-click payments using a web wallet3 like Metamask and receive the money directly in the wallet itself. 
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
+It is possible to create our post to show what we do or what we will do with the money received, as well as include comments from our followers. 
 
-## Join our Discord!
+### Future improvements:
+Customize thank you messages.
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+Implement in several networks (Polygon, BNB chain) the smart contract.
+
+Adjustment of the established rate for payments with reference in USDT.
+
+
+## Join on Alchemy University!
+
+[https://university.alchemy.com/](https://university.alchemy.com/).
