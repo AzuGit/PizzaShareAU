@@ -3,9 +3,9 @@
 
 You can check on this link:
 
-<a href="pizzashare.netlify.app" target="_blank">pizzashare.netlify.app</a>
+<a href="https://pizzashare.netlify.app/" target="_blank">pizzashare.netlify.app</a>
 
-[[pizzashare.netlify.app](https://pizzashare.netlify.app/)]
+https://pizzashare.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/115132408/218221184-bb6b4a5b-6fb5-4968-bd53-0bacfed0cb14.png)
 
